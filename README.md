@@ -1,5 +1,5 @@
 # Math-and-Programming
-Book Template written by @ahammadshawki8 and @Arko07-quanta.
+Book Template which is written by @ahammadshawki8 and @Arko07-quanta.
 
 ![pic](mathpro.jpg)
 
