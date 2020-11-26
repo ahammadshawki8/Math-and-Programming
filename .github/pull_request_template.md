@@ -6,7 +6,7 @@
 - Change 2
 
 # Additional info
-- Any additional informations or context
+- Any additional information or context
 
 # Checklist
 - [ ] Study & Info gathering
