@@ -1,0 +1,12 @@
+# Book size = 200+ page
+
+Intro		10
+Chapter 1	05
+Chapter 2	40
+Chapter 3	15
+Chapter 4	20
+Chapter 5	50
+Chapter 6	25
+Chapter 7	35
+---------------------
+Total	       200
