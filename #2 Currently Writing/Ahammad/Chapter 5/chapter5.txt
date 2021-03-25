@@ -1,0 +1,18 @@
+Chapter 5: Basic Concepts 			1
+	Sub 1: Data types				3
+	Sub 2: Strings and Variables	2
+	Sub 3: Manipulation				2
+	Sub 4: Basic math operation		2
+	Sub 5: Loop						1
+		5.1 For						4
+		5.2 While					4
+	Sub 6: Conditionals				5	
+	Sub 7: Basic Data Structures	1
+		7.1 List					5
+		7.2 Tuple					2
+		7.3 Set 					3
+		7.4 Dictionary				3
+	Sub 8: Functions				5
+	Sub 9: Error Handling			3
+	Sub 10: Classes and Objects		8
+	Extra: Story					2

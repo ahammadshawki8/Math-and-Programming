@@ -1,8 +1,0 @@
-Chapter 1	Ahammad Shawki
-Chapter 2	Arko Chowdhury
-Chapter 3	Both
-Chapter 4	Ahammad Shawki
-Chapter 5	Ahammad Shawki
-Chapter 6	Both (Standerd-Arko, Third party-Shawki, manim-Arko)
-Chapter 7	Both
-Chapter 8	Ahammad Shawki
